@@ -1,5 +1,5 @@
 [component]
 name = "SigmaOS-bulk-renamer"
-description = "Bulk file renaming component"
+description = "SigmaOS component: SigmaOS-bulk-renamer (Inspiration: https://github.com/linuxmint/bulky)"
 version = "0.1.0"
 tier = 2
